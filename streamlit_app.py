@@ -6,7 +6,7 @@ import os
 
 import matplotlib.pyplot as plt
 import numpy as np
-import streamlit as st
+import streamlit_app as st
 from matplotlib.colors import to_hex
 from PIL import Image
 
