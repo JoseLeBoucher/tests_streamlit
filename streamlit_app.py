@@ -1,14 +1,14 @@
-import math
-import xml.etree.ElementTree as ET
 import io
-import tempfile
+import math
 import os
+import tempfile
+import xml.etree.ElementTree as ET
 
 import matplotlib.pyplot as plt
 import numpy as np
-import streamlit_app as st
 from matplotlib.colors import to_hex
-from PIL import Image
+
+import streamlit_app as st
 
 # Configuration de la page Streamlit
 st.set_page_config(
